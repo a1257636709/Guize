@@ -1,5 +1,4 @@
 [Rule]
-# 百度贴吧
 DOMAIN‑SUFFIX,als.baidu.com
 DOMAIN‑SUFFIX,cbjs.baidu.com
 DOMAIN‑SUFFIX,post‑js.baidu.com
