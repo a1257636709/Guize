@@ -1,16 +1,40 @@
 [Rule]
-# 百度贴吧
-DOMAIN-SUFFIX,als.baidu.com
-DOMAIN-SUFFIX,cbjs.baidu.com
-DOMAIN-SUFFIX,post-js.baidu.com
-DOMAIN-SUFFIX,tb.baidu.com
+
+# 百度账号
 DOMAIN-SUFFIX,passport.baidu.com
+
+# 百度贴吧
+DOMAIN-SUFFIX,tb.baidu.com
 DOMAIN,c.tieba.baidu.com
 DOMAIN-SUFFIX,tiebac.baidu.com
-DOMAIN-SUFFIX,sp0.baidu.com
+DOMAIN-SUFFIX,tbmsg.baidu.com
+
+# 百度公共接口
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,bdimg.com
+DOMAIN-SUFFIX,baidubce.com
+DOMAIN-SUFFIX,bcebos.com
+
+# 百度静态资源
+DOMAIN-SUFFIX,bdstatic.cn
+DOMAIN-SUFFIX,bdimg.cn
+
+# 百度API
+DOMAIN-SUFFIX,duapps.com
+DOMAIN-SUFFIX,shifen.com
+DOMAIN-SUFFIX,aip.baidubce.com
+
+# 百度地图/定位（部分机型会调用）
+DOMAIN-SUFFIX,map.baidu.com
+DOMAIN-SUFFIX,api.map.baidu.com
+
+# 百度统计（建议先放行测试）
 DOMAIN-SUFFIX,hm.baidu.com
 DOMAIN-SUFFIX,mtj.baidu.com
+DOMAIN-SUFFIX,cbjs.baidu.com
 DOMAIN-SUFFIX,cbjslog.baidu.com
-DOMAIN-SUFFIX,cpro.baidu.com
+DOMAIN-SUFFIX,als.baidu.com
+DOMAIN-SUFFIX,post-js.baidu.com
 DOMAIN-SUFFIX,fclog.baidu.com
-DOMAIN-SUFFIX,tbmsg.baidu.com
+DOMAIN-SUFFIX,cpro.baidu.com
