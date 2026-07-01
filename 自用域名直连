@@ -4,6 +4,6 @@ DOMAIN-SUFFIX,cbjs.baidu.com
 DOMAIN-SUFFIX,post‑js.baidu.com
 DOMAIN-SUFFIX,tb.baidu.com
 DOMAIN-SUFFIX,passport.baidu.com
-DOMAIN-SUFFIX,c.tieba.baidu.com
+DOMAIN,c.tieba.baidu.com
 DOMAIN-SUFFIX,tiebac.baidu.com
 DOMAIN-SUFFIX,sp0.baidu.com
